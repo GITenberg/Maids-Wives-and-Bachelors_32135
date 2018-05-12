@@ -1,0 +1,33 @@
+_repo: Maids-Wives-and-Bachelors_32135
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barr, Amelia E.
+    alias: Barr, Amelia Edith Huddleston
+    birthdate: 1831
+    deathdate: 1919
+    gutenberg_agent_id: '2199'
+    url: http://www.gutenberg.org/2009/agents/2199
+    wikipedia: http://en.wikipedia.org/wiki/Amelia_Edith_Huddleston_Barr
+description: ''
+gutenberg_issued: '2010-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32135'
+  lccn: '98001457'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marriage'
+- !lcsh 'Wives'
+- !lcsh 'Women -- Social conditions'
+- !lcsh 'Women -- Social and moral questions'
+- !lcsh 'Single women'
+- !lcc 'HQ'
+title: Maids, Wives, and Bachelors
+url: http://www.gutenberg.org/ebooks/32135
